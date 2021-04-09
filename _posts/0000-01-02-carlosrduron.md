@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-add a slide to my slideshow
+Life is like a box of walruses
